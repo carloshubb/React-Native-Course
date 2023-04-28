@@ -1,2 +1,1 @@
-# React-Native-Course
-this is react native project
+# 2023-comeets-vots
